@@ -89,10 +89,12 @@ int main()
         cout << ele << " ";
     } */
 
-    int n;
+    /* int n;
     cin >> n;
     //cin.ignore();
     string s;
     getline(cin, s);
-    cout << n << " " << s;
+    cout << n << " " << s; */
+
+    
 }
