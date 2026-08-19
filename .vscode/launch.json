@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/admin/Desktop/DSA",
-      "program": "c:/Users/admin/Desktop/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/admin/Desktop/DSA/striverA2Z/array-medium",
+      "program": "c:/Users/admin/Desktop/DSA/striverA2Z/array-medium/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
