@@ -1,4 +1,4 @@
-#Modules
+# Modules
 import os
 import pyjokes
 
@@ -32,10 +32,12 @@ for i in range (0,10):
 while(i!=10):
     print(f"{i} koushik bhai bolte !")
     i=i+1 """
-    
-def sum(a,b):
+
+
+def sum(a, b):
     return a+b
 
-a=int(input("Enter the num1:"))
-b=int(input("Enter the num2:"))
-print("Sum of Two numbers:",sum(a,b))
+
+a = int(input("Enter the num1:"))
+b = int(input("Enter the num2:"))
+print("Sum of Two numbers:", sum(a, b))
