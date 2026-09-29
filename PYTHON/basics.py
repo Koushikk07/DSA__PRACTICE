@@ -1,8 +1,8 @@
 # Modules
-import os
-import pyjokes
+#import os
+#import pyjokes
 
-joke = pyjokes.get_joke()
+#joke = pyjokes.get_joke()
 # print("Joke:",joke)
 
 # OS ---> os. .. directories
@@ -13,7 +13,7 @@ c= 71.22
 
 print(type(a))
 print(type(b))
-print(type(c)) 
+print(type(c))
 
 Type casting
 print(str(a))
@@ -34,10 +34,62 @@ while(i!=10):
     i=i+1 """
 
 
-def sum(a, b):
+""" def sum(a, b):
     return a+b
 
 
 a = int(input("Enter the num1:"))
 b = int(input("Enter the num2:"))
-print("Sum of Two numbers:", sum(a, b))
+print("Sum of Two numbers:", sum(a, b)) """
+
+
+""" word = "Gudapur Koushik"
+print("Strings")
+print(word[0:])
+print(word[0:5])
+print(word[:10])
+print(word[0:15:2])
+print("String Functions...")
+print("Length: ",len(word))
+print("Ends With: ",word.endswith("shik"))
+print("Count: ",word.count('k'))
+print("Capitalize String: ",word.capitalize())
+print("Find: ",word.find("ous"))
+print("Length: ",word.replace("u","w"))
+print("Hello\nWorld")
+print("Hello\tWorld")
+print("Hello\'World\'")
+print("Hello\\World") """
+
+""" print("Chapter4 : Listings and Tuples")
+
+lst = [7, 8, 9, 10, 5, 3]
+
+lst.sort()
+print(lst) #listing are in []
+print(lst[0:])
+print(lst[0])
+print(lst[1])
+print(lst[2])
+print("List Methods.....")
+lst.sort()
+print(lst)
+lst.reverse()
+print(lst)
+lst.append(52)
+print(lst)
+lst.insert(3,10)
+print(lst)
+lst.pop(2)
+print(lst)
+lst.remove(9)
+print(lst) """
+
+
+print("Tuples in Python.")
+
+a=(1,7,2,8,9)  #(1,)--for one element comma must. (1,7,2)
+
+print(a.count(1))
+print(a.index(1)) #first occurance
+
