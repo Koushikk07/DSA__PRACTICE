@@ -1,8 +1,8 @@
 # Modules
-#import os
-#import pyjokes
+# import os
+# import pyjokes
 
-#joke = pyjokes.get_joke()
+# joke = pyjokes.get_joke()
 # print("Joke:",joke)
 
 # OS ---> os. .. directories
@@ -88,8 +88,7 @@ print(lst) """
 
 print("Tuples in Python.")
 
-a=(1,7,2,8,9)  #(1,)--for one element comma must. (1,7,2)
+a = (1, 7, 2, 8, 9)  # (1,)--for one element comma must. (1,7,2)
 
 print(a.count(1))
-print(a.index(1)) #first occurance
-
+print(a.index(1))  # first occurance
